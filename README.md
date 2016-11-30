@@ -15,10 +15,10 @@
 	1. API 21 greater
 	
 	
-## Reference
+## Reference  
 
-	1. [API Camera2](https://developer.android.com/reference/android/hardware/camera2/package-summary.html)
-	2. [Code refer](https://inducesmile.com/android/android-camera2-api-example-tutorial/)
+1. [API Camera2](https://developer.android.com/reference/android/hardware/camera2/package-summary.html)  
+2. [Code refer](https://inducesmile.com/android/android-camera2-api-example-tutorial/)  
 
 	
 
