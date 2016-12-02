@@ -7,7 +7,8 @@ import android.util.Log;
 import android.view.TextureView;
 import android.view.View;
 import android.widget.Button;
-import android.widget.TextView;
+
+import com.vnptmedia.opencv20161128.Camera.MyCamera;
 
 import org.opencv.android.OpenCVLoader;
 

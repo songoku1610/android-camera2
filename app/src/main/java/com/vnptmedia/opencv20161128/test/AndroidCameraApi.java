@@ -34,6 +34,9 @@ import android.view.TextureView;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
+
+import org.opencv.videoio.VideoCapture;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -82,6 +85,8 @@ public class AndroidCameraApi extends AppCompatActivity {
                 takePicture();
             }
         });
+
+
     }
     TextureView.SurfaceTextureListener textureListener = new TextureView.SurfaceTextureListener() {
         @Override
